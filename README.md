@@ -7,6 +7,7 @@
 ____**Welcome**____
 
 
+<p align="center">
 AUTHOR:
 <p align="center">
 4nn0wn As H4RD0N3
