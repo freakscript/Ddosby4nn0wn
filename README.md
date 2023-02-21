@@ -14,7 +14,7 @@ AUTHOR:
 </p>
 
 </br>
-<p font color="red"><align="center">
+<p align="center" font color="red">
       D34DL15T-CYBER-SEC
 </p>
 
