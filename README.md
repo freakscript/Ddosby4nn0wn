@@ -1,11 +1,11 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/104662886/220317922-aa955116-006a-46e7-a3e5-e98512ba7d10.gif">
-<p align="center">
+<p align="center"><img src="https://user-images.githubusercontent.com/104662886/220317922-aa955116-006a-46e7-a3e5-e98512ba7d10.gif"></br>
+<p align="center" font size="5" color="pink">
 ____**Welcome**____
 
 
 <p align="center" font color="green">
 AUTHOR:
-<p align="center">
+<p align="center" font color="red">
 4nn0wn As H4RD0N3
 
 </br>
