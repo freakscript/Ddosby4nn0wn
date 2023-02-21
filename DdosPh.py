@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-#Cie Mau Rename
 #add na lang po ako ng Update
 import random
 import socket
@@ -10,7 +9,7 @@ import sys
 os.system("clear")
 print("""\033[95m
 [ • ]====================[ + ]
-[ • ] Author - H4RD0N3      
+[ • ] Author - 4nn0wn      
 [ • ] AnonPhCyber Sec
 [ • ] only UDP/TCP | METHODS
 [ • ]====================[ + ]
