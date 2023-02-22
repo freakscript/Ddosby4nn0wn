@@ -28,4 +28,11 @@ AUTHOR:
 
 rm -rf Ddos.py
 
-install with my url only
+
+git clone https://github.com/freakscript/Ddosby4nn0wn
+
+cd Ddosby4nn0wn
+
+python3 DdosPh.py
+
+💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀
