@@ -26,7 +26,7 @@ AUTHOR:
 #### INSTALL TOOL ON TERMUX
 ```python
 
-rm Ddosby4nn0wn
+rm -rf Ddosby4nn0wn
 
 
 git clone https://github.com/freakscript/Ddosby4nn0wn
